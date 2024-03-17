@@ -1,5 +1,3 @@
-/* Escreva um programa que calcule o teorema de Pitágoras, representado pela expressão: c =a2+b2 .*/
-
 import java.util.Scanner;
 
 public class Main {
